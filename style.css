@@ -1,0 +1,24 @@
+body {
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+.controls {
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+}
+
+button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+}
