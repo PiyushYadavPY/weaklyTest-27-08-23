@@ -19,7 +19,8 @@ Release the mouse button to stop drawing.
 
 Buttons:
 
-Undo Button: If you make a mistake, click this button to undo your last drawing action.
+Undo Button: If you make a mistake, click this button to undo your last drawing action. 
+
 Delete Button: Want a fresh start? Click this button to clear the entire canvas.
 
 
